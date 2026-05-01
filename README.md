@@ -10,9 +10,10 @@
 
 <br/>
 
-<!-- CONTACT -->
+<!-- Give a coffee  -->
 <div align="center">
-
+  Give a coffee
+(https://www.patreon.com/c/psyhusk/membership)
 
 
 </div>
