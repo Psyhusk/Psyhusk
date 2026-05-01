@@ -12,8 +12,6 @@ Desenvolvedor focado em criar soluções robustas e sistemas funcionais de alto 
 
 ### ☕ Meus Destaques
 * **CoffeeCat:** Toolkit de recuperação Linux com UI Neobank.
-* **ATM POS System:** Estrutura técnica completa para pontos de venda automatizados.
-
 ---
 
 ### 📫 Conecte-se comigo
