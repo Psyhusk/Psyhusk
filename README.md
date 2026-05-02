@@ -78,8 +78,6 @@ I also have experience with **HTML**, **CSS**, **JavaScript**, **React**, **PHP*
 
 <br/><br/>
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Psyhusk&show_icons=true&theme=dark&title_color=c9a84c&icon_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&count_private=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Psyhusk&layout=compact&theme=dark&title_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a"/>
 
 </div>
 
