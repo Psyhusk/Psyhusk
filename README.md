@@ -104,18 +104,6 @@ I also have experience with **HTML**, **CSS**, **JavaScript**, **React**, **PHP*
 
 ---
 
-## 🗡️ Featured Projects
-
-<div align="center">
-
-https://github.com/Psyhusk/CoffeeCat
-https://github.com/Psyhusk/SeerCat
-https://github.com/Psyhusk/NekotinaCat_Frameworks
-</div>
-
----
-
-<div align="center">
 
 *† Seek Paleblood to transcend the Hunt †*
 
