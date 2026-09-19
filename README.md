@@ -34,7 +34,7 @@
 
 Currently deepening my studies in **Python**, **SQL** and **web development**, applying this knowledge to real personal projects — automation bots, portfolios, and web tools.
 
-I also have experience with **HTML**, **CSS**, **JavaScript**, **React**, **PHP**, **Git** and am currently exploring **AWS & Cloud Computing**.
+I also have experience with **HTML**, **CSS**, **JavaScript**, **Python**, **Bash**, **Git**, **Agile Junior Vibe Coder**, **Osint**, **OWASP**, **CEH**, **Ethical Hacking**, **IOT**, **Open-source development** and am currently exploring **AWS & Cloud Computing**.
 
 <img align="right" width="240px" src="https://raw.githubusercontent.com/Psyhusk/Psyhusk/main/char.jpg" width="100%" alt="banner"/>
 
@@ -98,8 +98,8 @@ I also have experience with **HTML**, **CSS**, **JavaScript**, **React**, **PHP*
 | | Course | Status |
 |:---:|:---|:---:|
 | ◈ | Desenvolvimento de software|
-| ◈ | Administração de sistemas Linux | 🔄 In Progress |
-| ◈ | Instalação De Circuito fechado de TV CFTV |
+| ◈ | Administração de sistemas Linux | ✅ Complete  |
+| ◈ | Instalação De Circuito fechado de TV CFTV | ✅ Complete |
 | ◈ | Especialização em Certified Ethical Hacker (CEH)| ✅ Complete |
 
 ---
