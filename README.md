@@ -47,7 +47,7 @@ I also have experience with **HTML**, **CSS**, **JavaScript**, **PHP**, **Bash**
 Aqui estão alguns dos projetos desenvolvidos para a comunidade com foco em Cyber Security, Automação e Redes:
 
 ### 🐾 1. NovaCat
-Ferramenta defensiva e consultiva de Cyber Threat Intelligence (CTI) com interface gráfica nativa para Linux[cite: 1]. Consulta fontes públicas de reputação para verificar se identificadores de rede (IP, MAC, hash de arquivo ou domínio) possuem histórico de uso malicioso[cite: 1].
+Ferramenta defensiva e consultiva de Cyber Threat Intelligence (CTI) com interface gráfica nativa para Linux[cite: 1]. Consulta fontes públicas de reputação para verificar se identificadores de rede (IP, MAC, hash de arquivo ou domínio) possuem histórico de uso malicioso.
 
 <a href="https://github.com/Psyhusk/NovaCat" target="_blank">
   <img src="https://img.shields.io/badge/Ver_Projeto-NovaCat-c9a84c?style=for-the-badge&logo=github&logoColor=0d0d0d" alt="NovaCat Repo"/>
@@ -56,7 +56,7 @@ Ferramenta defensiva e consultiva de Cyber Threat Intelligence (CTI) com interfa
 ---
 
 ### 👁️ 2. SeerCat
-Orquestrador de auditoria de redes wireless que combina automação com uma interface moderna e intuitiva[cite: 1]. Desenvolvido para transformar processos complexos executados via terminal em uma experiência visual fluida para especialistas em redes e segurança[cite: 1].
+Orquestrador de auditoria de redes wireless que combina automação com uma interface moderna e intuitiva Desenvolvido para transformar processos complexos executados via terminal em uma experiência visual fluida para especialistas em redes e segurança
 
 <a href="https://github.com/Psyhusk/SeerCat" target="_blank">
   <img src="https://img.shields.io/badge/Ver_Projeto-SeerCat-c9a84c?style=for-the-badge&logo=github&logoColor=0d0d0d" alt="SeerCat Repo"/>
@@ -64,7 +64,7 @@ Orquestrador de auditoria de redes wireless que combina automação com uma inte
 ---
 
 ### ☕ 3. CoffeeCat
-Toolkit de recuperação para sistemas Linux com interface moderna construída em CustomTkinter[cite: 1]. Automatiza a criação de USBs bootáveis, montagem de ambiente `chroot` para reparo de GRUB, redefinição de senhas e diagnóstico de integridade de hardware (SMART)[cite: 1].
+Toolkit de recuperação para sistemas Linux com interface moderna construída em CustomTkinter  Automatiza a criação de USBs bootáveis, montagem de ambiente `chroot` para reparo de GRUB, redefinição de senhas e diagnóstico de integridade de hardware (SMART) 
 
 <a href="https://github.com/Psyhusk/CoffeeCat" target="_blank">
   <img src="https://img.shields.io/badge/Ver_Projeto-CoffeeCat-c9a84c?style=for-the-badge&logo=github&logoColor=0d0d0d" alt="CoffeeCat Repo"/>
@@ -73,7 +73,7 @@ Toolkit de recuperação para sistemas Linux com interface moderna construída e
 ---
 
 ### 🛡️ 4. NekotinaCat Frameworks
-Framework de monitoramento defensivo de segurança focado na proteção, auditoria e observabilidade contínua para sistemas baseados em Linux/Unix[cite: 1].
+Framework de monitoramento defensivo de segurança focado na proteção, auditoria e observabilidade contínua para sistemas baseados em Linux/Unix
 
 <a href="https://github.com/Psyhusk/NekotinaCat_Frameworks" target="_blank">
   <img src="https://img.shields.io/badge/Ver_Projeto-NekotinaCat_Frameworks-c9a84c?style=for-the-badge&logo=github&logoColor=0d0d0d" alt="NekotinaCat Frameworks Repo"/>
@@ -82,7 +82,7 @@ Framework de monitoramento defensivo de segurança focado na proteção, auditor
 ---
 
 ### ⚡ 5. PixieCat
-Solução totalmente assíncrona de Cyber Threat Intelligence para mitigação de fraudes no sistema Pix[cite: 1]. Conta com recursos de telemetria, OSINT de CEP via APIs públicas, geolocalização, DNS reverso e fingerprint de PSP para cibersegurança financeira[cite: 1].
+Solução totalmente assíncrona de Cyber Threat Intelligence para mitigação de fraudes no sistema Pix. Conta com recursos de telemetria, OSINT de CEP via APIs públicas, geolocalização, DNS reverso e fingerprint de PSP para cibersegurança financeira.
 
 <a href="https://github.com/Psyhusk/PixieCat" target="_blank">
   <img src="https://img.shields.io/badge/Ver_Projeto-PixieCat-c9a84c?style=for-the-badge&logo=github&logoColor=0d0d0d" alt="PixieCat Repo"/>
@@ -92,7 +92,7 @@ Solução totalmente assíncrona de Cyber Threat Intelligence para mitigação d
 
 
 ### 🚩 6. Cyber Cat CTF
-Jogo de treinamento via linha de comando (CLI) 100% desenvolvido em Python[cite: 1]. Focado em ensinar e praticar conceitos de Redes, DNS, VPN, Firewalls, Hardening (Linux & Windows/AD), segurança Web (OWASP Top 10), IoT e fundamentos de Hacking Ético[cite: 1].
+Jogo de treinamento via linha de comando (CLI) 100% desenvolvido em Python Focado em ensinar e praticar conceitos de Redes, DNS, VPN, Firewalls, Hardening (Linux & Windows/AD), segurança Web (OWASP Top 10), IoT e fundamentos de Hacking Ético.
 
 <a href="https://github.com/Psyhusk/Cyber-Cat-CTF" target="_blank">
   <img src="https://img.shields.io/badge/Ver_Projeto-Cyber_Cat_CTF-c9a84c?style=for-the-badge&logo=github&logoColor=0d0d0d" alt="Cyber Cat CTF Repo"/>
