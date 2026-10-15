@@ -47,7 +47,7 @@ I also have experience with **HTML**, **CSS**, **JavaScript**, **PHP**, **Bash**
 Aqui estão alguns dos projetos desenvolvidos para a comunidade com foco em Cyber Security, Automação e Redes:
 
 ### 🐾 1. NovaCat
-Ferramenta defensiva e consultiva de Cyber Threat Intelligence (CTI) com interface gráfica nativa para Linux[cite: 1]. Consulta fontes públicas de reputação para verificar se identificadores de rede (IP, MAC, hash de arquivo ou domínio) possuem histórico de uso malicioso.
+Ferramenta defensiva e consultiva de Cyber Threat Intelligence (CTI) com interface gráfica nativa para Linux . Consulta fontes públicas de reputação para verificar se identificadores de rede (IP, MAC, hash de arquivo ou domínio) possuem histórico de uso malicioso.
 
 <a href="https://github.com/Psyhusk/NovaCat" target="_blank">
   <img src="https://img.shields.io/badge/Ver_Projeto-NovaCat-c9a84c?style=for-the-badge&logo=github&logoColor=0d0d0d" alt="NovaCat Repo"/>
